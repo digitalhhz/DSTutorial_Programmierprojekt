@@ -3,7 +3,7 @@
 
 On this page you will find examples for the lecture: [DBE14 - Distrubuted Systems SS20](https://relax.reutlingen-university.de/course/view.php?id=16387) [Relax_Link]
 
-The examples and internet sources should support you by handling the practical part out in the lecture. Most links will tend to be readings on architecture itself and some of them will have examples. You can find more information regarding the lecuture on my [Wiki](https://github.com/Soley02/Distributed_Systems_SS20/wiki) page.
+The examples and internet sources should support you by handling the practical part out in the lecture. Most links will tend to be readings on architecture itself and some of them will have examples. You can find more information regarding the lecuture on my [Wiki](https://github.com/digitalhhz/DSTutorial_Programmierprojekt/wiki) page.
 
 An excellent introduction and overview for distrubted systems you will find by @aphyr's: [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class) 
 
